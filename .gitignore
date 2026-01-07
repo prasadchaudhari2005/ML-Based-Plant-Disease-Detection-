@@ -1,0 +1,15 @@
+# User requested exclusions
+.ipynb_checkpoints/
+plant_disease/
+train/
+test/
+valid/
+trained_model_new.h5
+tarining_hist.json
+image.jpg
+
+# Python/Environment defaults
+__pycache__/
+*.pyc
+venv/
+env/
